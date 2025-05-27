@@ -2,5 +2,5 @@ python-telegram-bot==20.3
 requests
 beautifulsoup4
 pydub
-moviepy
+moviepy==1.0.3
 tiktok-uploader
