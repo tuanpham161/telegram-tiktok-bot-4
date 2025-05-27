@@ -1,5 +1,5 @@
 services:
-  - type: worker
+  - type: web
     name: telegram-tiktok-bot
     env: python
     plan: free
